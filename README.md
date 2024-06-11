@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/brepex" target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Middle+Front-end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Senior+Front-end+developer)](https://git.io/typing-svg)
 
 Меня зовут Дмитрий, и я опытный Frontend-разработчик, специализирующийся на создании динамичных и отзывчивых пользовательских интерфейсов с использованием JavaScript, React, ReduxToolkit и сопутствующих технологий. 🚀
 
