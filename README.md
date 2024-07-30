@@ -49,6 +49,7 @@
 
 ![Скриншот коммитов из 21ВЕК](https://github.com/BrepeX/BrepeX/blob/main/screen%201.png)
 ![Скриншот коммитов из Freematiq](https://github.com/BrepeX/BrepeX/blob/main/screen%202.png)
+![Скриншот коммитов из Simple Company](https://github.com/BrepeX/BrepeX/blob/main/screen3.png)
 
 Эти скриншоты показывают мою постоянную активность и участие в разработке, а также подтверждают мой опыт и профессиональный вклад.
 
